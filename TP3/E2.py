@@ -1,6 +1,6 @@
 #2) Desarrolla un programa que solicite al usuario un número entero y determine la cantidad de
 #dígitos que contiene.
-#Metodo 1
+
 numero = int(input("Ingrese un numero entero: "))
 
 # Pasamos a positivo por si el número es negativo con la funcion absoluto.
